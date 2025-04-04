@@ -31,7 +31,7 @@ This calculator was built as a personal project to replicate and potentially rep
 
 ## 📦 How to Use
 
-1. Clone the repository:
+Clone the repository:
 
 bash
 git clone https://github.com/moeinnrz/Calculator_Windows_C-.git
