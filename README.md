@@ -33,7 +33,7 @@ This calculator was built as a personal project to replicate and potentially rep
 
 Clone the repository:
 ```
-git clone https://github.com/moeinnrz/Calculator_Windows_C-.git
+https://github.com/moeinnrz/Calculator_Windows_Csharp.git
 ```
 ## 🙌 Thanks and acknowledgements
 Thanks to Windows Calculator for the UI inspiration.
