@@ -34,7 +34,7 @@ This calculator was built as a personal project to replicate and potentially rep
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/moeinnrz/Calculator_Windows_C-.git
 
 ## 🙌 Thanks and acknowledgements
 Thanks to Windows Calculator for the UI inspiration.
