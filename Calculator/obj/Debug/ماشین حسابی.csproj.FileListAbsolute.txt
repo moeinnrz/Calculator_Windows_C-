@@ -1,0 +1,110 @@
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\bin\Debug\ماشین حسابی.exe.config
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\bin\Debug\ماشین حسابی.exe
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\bin\Debug\ماشین حسابی.pdb
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.AssemblyReference.cache
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Form1.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Properties.Resources.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.GenerateResource.cache
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.CoreCompileInputs.cache
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.exe
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.pdb
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Scientific.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Data_Calculation.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Temperature.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Programmer.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.test.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.About.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.length.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Weigh_Mass.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Energy.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Volume.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Area.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Spees.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Power.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Time.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Pressure.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Angle.resources
+C:\Users\Moein Norouzi\source\repos\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Data.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\bin\Debug\ماشین حسابی.exe.config
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\bin\Debug\ماشین حسابی.exe
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\bin\Debug\ماشین حسابی.pdb
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.AssemblyReference.cache
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.About.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Angle.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Area.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Data.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Data_Calculation.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Energy.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Form1.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.length.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Power.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Pressure.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Programmer.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Properties.Resources.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Scientific.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Spees.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Temperature.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.test.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Time.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Volume.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Weigh_Mass.resources
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.GenerateResource.cache
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.CoreCompileInputs.cache
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.exe
+C:\Users\Moein Norouzi\source\repos\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.pdb
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.AssemblyReference.cache
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.About.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Angle.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Area.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Data.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Data_Calculation.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Energy.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Form1.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.length.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Power.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Pressure.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Programmer.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Properties.Resources.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Scientific.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Spees.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Temperature.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.test.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Time.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Volume.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین_حسابی.Weigh_Mass.resources
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.GenerateResource.cache
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.CoreCompileInputs.cache
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.pdb
+G:\C# Projects\Calculator 1\ماشین حسابی\bin\Debug\ماشین حسابی.exe.config
+G:\C# Projects\Calculator 1\ماشین حسابی\bin\Debug\ماشین حسابی.exe
+G:\C# Projects\Calculator 1\ماشین حسابی\obj\Debug\ماشین حسابی.exe
+G:\C# Projects\ماشین حسابی\ماشین حسابی\bin\Debug\ماشین حسابی.exe
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.AssemblyReference.cache
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.About.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Angle.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Area.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Data.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Data_Calculation.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Energy.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Form1.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.length.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Power.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Pressure.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Programmer.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Scientific.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Spees.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Temperature.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.test.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Time.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Volume.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین_حسابی.Weigh_Mass.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.GenerateResource.cache
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\ماشین حسابی.csproj.CoreCompileInputs.cache
+G:\C# Projects\ماشین حسابی\ماشین حسابی\bin\Debug\Caculator.exe.config
+G:\C# Projects\ماشین حسابی\ماشین حسابی\bin\Debug\Caculator.exe
+G:\C# Projects\ماشین حسابی\ماشین حسابی\bin\Debug\Caculator.pdb
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\Calculator_Windows.Properties.Resources.resources
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\Caculator.exe
+G:\C# Projects\ماشین حسابی\ماشین حسابی\obj\Debug\Caculator.pdb

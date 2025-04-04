@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C# Projects\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB8032C-E6D3-427C-8A71-E14C77341115}|\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\Calculator.csproj|g:\\c# projects\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB8032C-E6D3-427C-8A71-E14C77341115}|\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\Calculator.csproj|solutionrelative:\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "G:\\C# Projects\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\About.cs",
+              "RelativeDocumentMoniker": "\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\About.cs",
+              "ToolTip": "G:\\C# Projects\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\About.cs [Design]",
+              "RelativeToolTip": "\u0645\u0627\u0634\u06CC\u0646 \u062D\u0633\u0627\u0628\u06CC\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:29:14.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
