@@ -14,6 +14,10 @@ A fully functional calculator app built with C# and Windows Forms that replicate
 - Modern UI similar to Windows Calculator
 - Fully responsive and bug-free
 
+## 💡 Why this project?
+
+This calculator was built as a personal project to replicate and potentially replace the default Windows calculator. The program demonstrates proficiency in C# and Windows Forms while focusing on a clean user interface and precise operations.
+
 ## 📷 Screenshots
 ![img1](https://github.com/user-attachments/assets/cb82acb1-7a23-43c6-b9da-61b4dd36f1d1)
 
@@ -31,3 +35,6 @@ A fully functional calculator app built with C# and Windows Forms that replicate
 
 bash
 git clone https://github.com/your-username/your-repo-name.git
+
+## 🙌 Thanks and acknowledgements
+Thanks to Windows Calculator for the UI inspiration.
